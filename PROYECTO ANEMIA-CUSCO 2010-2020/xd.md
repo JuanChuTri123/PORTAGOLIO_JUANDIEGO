@@ -35,23 +35,24 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 1. **Limpieza**  
    - Reemplazo de valores nulos en PROVINCIA, DISTRITO, COD_EESS, UBIGEO  
    - Validación de sumas CASOS + NORMAL = TOTAL  
-   - Normalización de formatos y tipos de datos  
+   - Normalización de formatos y tipos de datos
+   - Renombramiento de columnas para facilidad lectora
+   - Eliminación de columnas que no aportarán valor en este proyecto (Ubigeo, FechaCorte)
 
 2. **Análisis**  
    - Creación de medidas:  
-     - Tasa de anemia = CASOS / TOTAL  
-     - Casos promedio por edad  
-     - Distribución por provincia  
-     - Tendencia anual 2010–2020  
-     - Ranking de establecimientos con más casos  
+     - Total de casos de anemia
+     - Tasa de anemia = Casos anemia / Total Casos
+     - Distribución por provincia  (en porcentaje)
+     - Provincia con más casos de anemia
 
 3. **Visualización**  
    - Gráficos:  
-     - Mapa geográfico por UBIGEO  
-     - Serie temporal de casos (2010–2020)  
-     - Barras por edad  
-     - Comparación CASOS vs NORMAL por provincia  
-     - Ranking de establecimientos de salud  
+     - Mapa geográfico por Departamento - Provincia - Distrito 
+     - Serie temporal de casos (anemia y sin anemia) (2010–2020)  
+     - Gráfico de áreas por edad  
+     - Comparación Casos con anemia vs Casos sin anemia, por provincia  
+     - Embudo de los 15 distritos con más casos de anemia
 
 ---
 
