@@ -20,7 +20,7 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 - **Link**: https://www.datosabiertos.gob.pe/dataset/casos-de-anemia-por-edades-entre-los-a%C3%B1os-2010-2020-en-la-region-de-cusco
 - **Tamaño**: 83413 filas, 14 columnas  
 - **Descripción**: Casos de anemia y normales por edad, año, provincia, distrito y establecimiento de salud  
-- **Diccionario de datos**: 
+- **Diccionario de datos**: [Data Dictionary - Anemia Cusco 2010-2020](DiccionarioDatos_ANEMIACUSCO.xlsx)
 
 ---
 
