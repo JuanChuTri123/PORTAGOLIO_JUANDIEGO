@@ -37,7 +37,7 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
    - Validación de sumas CASOS + NORMAL = TOTAL  
    - Normalización de formatos y tipos de datos
    - Renombramiento de columnas para facilidad lectora
-   - Eliminación de columnas que no aportarán valor en este proyecto (Ubigeo, FechaCorte)
+   - Eliminación de columnas que no aportarán valor en este proyecto (Ubigeo, FechaCorte, MicroRed,Codigo EESS)
 
 2. **Análisis**  
    - Creación de medidas:  
@@ -53,15 +53,8 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
      - Gráfico de áreas por edad  
      - Comparación Casos con anemia vs Casos sin anemia, por provincia  
      - Embudo de los 15 distritos con más casos de anemia
-
+     - Sección de tablas para analizar a detalle 
 ---
-
-2. Grupos de edad más afectados en el periodo.  
-
-3. Tendencia temporal: evolución de la anemia en 10 años.  
-
-4. Establecimientos con más casos reportados.  
-
 
 ## 5. Hallazgos Clave / Insights
 
@@ -81,6 +74,11 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 4. **Establecimientos con más casos reportados**  
    El ranking de establecimientos muestra que **10 centros de salud concentran cerca del 20% de los casos de anemia**.  
    Estos puntos focales representan áreas estratégicas para **reforzar la atención primaria y mejorar la capacidad de diagnóstico y tratamiento**.
+   
+5. **Distritos con mayor carga de casos de anemia**
+   El análisis por distrito revela que **Cusco (10,229), Santiago (9,936), San Sebastián (8,707) y San Jerónimo (6,057)** concentran en conjunto más de **35,000 casos de anemia**, convirtiéndose en los principales focos de intervención.  
+   Distritos como **Sicuani, Wanchaq y Echarate** presentan cargas intermedias (5,000–6,000 casos), mientras que **Espinar, Santo Tomás, Ocongate y Anta** registran cifras menores, aunque igualmente relevantes.  
+   Este hallazgo permite identificar **zonas críticas y zonas de vigilancia**, facilitando la priorización de recursos en salud pública.
 
 
 ---
