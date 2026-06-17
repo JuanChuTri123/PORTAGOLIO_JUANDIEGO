@@ -111,7 +111,9 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 
 ## 8. Cómo ejecutar el proyecto
 ```bash
-1. Descarga la carpeta del proyecto que incluye todos los arhivos necesarios o clona el repositorio
-2. Abre el archivo .pbix en Power BI
-3. Explora el dashboard con los filtros disponibles
-4. Explora las tablas para información detallada del caso
+
+1. Descarga la carpeta del proyecto que incluye todos los archivos necesarios o clona el repositorio.
+2. Abre el archivo .pbix en Power BI.
+3. Explora el dashboard utilizando los filtros disponibles.
+4. Revisa las tablas para obtener información detallada del caso.
+
