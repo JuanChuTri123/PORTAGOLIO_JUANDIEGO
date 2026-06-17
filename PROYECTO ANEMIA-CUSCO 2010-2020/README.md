@@ -71,9 +71,12 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
    La serie temporal revela un crecimiento sostenido de casos entre 2010 y 2019, seguido de un **leve descenso hacia 2020**.  
    Este comportamiento podría reflejar el impacto de **políticas de suplementación y campañas de salud** implementadas en los últimos años, aunque la prevalencia sigue siendo alta.
 
-4. **Establecimientos con más casos reportados**  
-   El ranking de establecimientos muestra que **10 centros de salud concentran cerca del 20% de los casos de anemia**.  
-   Estos puntos focales representan áreas estratégicas para **reforzar la atención primaria y mejorar la capacidad de diagnóstico y tratamiento**.
+4. **Redes de salud con mayor carga de casos**  
+   El análisis muestra que la distribución de anemia no es homogénea, sino que se concentra en determinadas **redes de salud**.  
+   Las más afectadas son **Cusco Sur (55,859 casos) y Cusco Norte (52,493 casos)**, que en conjunto representan **un poco más del 70% del total de casos registrados en la región**.  
+   Otras redes como **Canas–Canchis–Espinar (20,607 casos)** y **La Convención (14,220 casos)** presentan cargas intermedias, mientras que **Kimbiri–Pichari (5,662 casos)** y **Chumbivilcas (5,553 casos)** registran cifras menores.  
+   Este hallazgo evidencia que las **redes Cusco Sur y Cusco Norte son puntos críticos de intervención**, donde reforzar la atención primaria, el diagnóstico temprano y la distribución de suplementos nutricionales tendría un impacto más rápido y efectivo en la reducción de la anemia.
+
    
 5. **Distritos con mayor carga de casos de anemia**
    El análisis por distrito revela que **Cusco (10,229), Santiago (9,936), San Sebastián (8,707) y San Jerónimo (6,057)** concentran en conjunto más de **35,000 casos de anemia**, convirtiéndose en los principales focos de intervención.  
@@ -84,9 +87,22 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 ---
 
 ## 6. Recomendaciones / Impacto
-- Focalizar recursos en provincias críticas.  
-- Programas de prevención en edades más vulnerables.  
-- Monitoreo anual para evaluar impacto de políticas.  
+
+1. **[Focalización territorial](ca://s?q=Recomendacion_focalizacion_territorial)**  
+   Priorizar intervenciones en las provincias críticas (**Cusco, La Convención y Quispicanchi**) y en las redes de salud **Cusco Sur y Cusco Norte**, que concentran más del 70% de los casos.  
+
+2. **[Programas dirigidos a grupos vulnerables](ca://s?q=Recomendacion_programas_para_grupos_vulnerables)**  
+   Reforzar campañas de suplementación y educación alimentaria en **niños y adolescentes (6, 12 y 18 años)**, principales grupos afectados.  
+
+3. **[Fortalecimiento de la atención primaria](ca://s?q=Recomendacion_fortalecimiento_atencion_primaria)**  
+   Mejorar la capacidad de diagnóstico temprano y tratamiento en los **centros de salud y distritos con mayor carga de casos** (Cusco, Santiago, San Sebastián, San Jerónimo).  
+
+4. **[Monitoreo y evaluación continua](ca://s?q=Recomendacion_monitoreo_y_evaluacion)**  
+   Implementar sistemas de seguimiento anual para evaluar la evolución de la anemia y medir el impacto de las políticas de suplementación.  
+
+5. **[Redistribución de recursos](ca://s?q=Recomendacion_redistribucion_de_recursos)**  
+   Optimizar la asignación de suplementos nutricionales, personal médico y campañas educativas hacia las zonas con mayor prevalencia, evitando una distribución uniforme que diluya el impacto.  
+
 
 ---
 
