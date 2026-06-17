@@ -17,10 +17,9 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 
 ## 2. Datos
 - **Fuente**: Plataforma Nacional de Datos Abiertos - Perú
-- **Link**: https://www.datosabiertos.gob.pe/dataset/casos-de-anemia-por-edades-entre-los-a%C3%B1os-2010-2020-en-la-region-de-cusco
 - **Tamaño**: 83413 filas, 14 columnas  
 - **Descripción**: Casos de anemia y normales por edad, año, provincia, distrito y establecimiento de salud  
-- **Diccionario de datos**: [Data Dictionary - Anemia Cusco 2010-2020](DiccionarioDatos_ANEMIACUSCO.xlsx)
+- **Diccionario de datos**: Archivo excel proporcionado por la página de Datos Abiertos, para saber la descripción de cada columna de los datos que usaremos en este proyecto.
 
 ---
 
@@ -105,14 +104,14 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 ---
 
 ## 7. Links
-- **Dashboard Interactivo**: [DASHBOARD](Proyecto%ANEMIA-CUSCO.pbix)
-- **Código ETL (Power Query)**: `/etl/transformaciones.pq`  
-- **Dataset limpio**: `/data/dataset_limpio.csv`  
-
+- **Dashboard Interactivo**: [DASHBOARD](Proyecto%ANEMIA-CUSCO.pbix)  
+- **Diccionario de datos**: [Data Dictionary - Anemia Cusco 2010-2020](DiccionarioDatos_ANEMIACUSCO.xlsx)  
+- **Fuente de datos**: https://www.datosabiertos.gob.pe/dataset/casos-de-anemia-por-edades-entre-los-a%C3%B1os-2010-2020-en-la-region-de-cusco
 ---
 
 ## 8. Cómo ejecutar el proyecto
 ```bash
-1. Clona el repo
+1. Descarga la carpeta del proyecto que incluye todos los arhivos necesarios o clona el repositorio
 2. Abre el archivo .pbix en Power BI
 3. Explora el dashboard con los filtros disponibles
+4. Explora las tablas para información detallada del caso
