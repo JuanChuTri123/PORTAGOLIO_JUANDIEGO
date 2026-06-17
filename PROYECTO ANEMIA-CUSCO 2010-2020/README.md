@@ -58,8 +58,11 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 
 ## 5. Hallazgos Clave / Insights
 1. Provincias con mayor prevalencia de anemia.  
+
 2. Grupos de edad más afectados en el periodo.  
+
 3. Tendencia temporal: evolución de la anemia en 10 años.  
+
 4. Establecimientos con más casos reportados.  
 
 ---
