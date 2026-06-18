@@ -16,10 +16,12 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 ---
 
 ## 2. Datos
-- **Fuente**: Plataforma Nacional de Datos Abiertos - Perú
-- **Tamaño**: 83413 filas, 14 columnas  
-- **Descripción**: Casos de anemia y normales por edad, año, provincia, distrito y establecimiento de salud  
-- **Diccionario de datos**: Archivo excel proporcionado por la página de Datos Abiertos, para saber la descripción de cada columna de los datos que usaremos en este proyecto.
+|Titulo|Detalle|
+|--|--|
+|**Fuente**| Plataforma Nacional de Datos Abiertos - Perú|
+|**Tamaño** |83413 filas, 14 columnas | 
+|**Descripción**| Casos de anemia y normales por edad, año, provincia, distrito y establecimiento de salud  
+|**Diccionario de datos** |Archivo excel proporcionado por la página de Datos Abiertos, para saber la descripción de cada columna de los datos que usaremos en este proyecto.|
 
 ---
 
