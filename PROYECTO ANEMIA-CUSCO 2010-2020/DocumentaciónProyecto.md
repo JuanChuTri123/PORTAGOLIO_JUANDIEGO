@@ -26,9 +26,9 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 ---
 
 ## 3. Herramientas y Tecnologías
-- Power Query (ETL)  
-- Power BI (visualización)  
-- GitHub (portafolio y versionado)  
+- Power Query (ETL):  Extracción, transformación y carga de datos desde CSV.
+- Power BI (visualización): Creación de dashboards interactivos para analizar patrones de anemia.
+- GitHub (portafolio y versionado): Control de versiones y portafolio público del proyecto.
 
 ---
 
@@ -90,6 +90,8 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
    Distritos como **Sicuani, Wanchaq y Echarate** presentan cargas intermedias (5,000–6,000 casos), mientras que **Espinar, Santo Tomás, Ocongate y Anta** registran cifras menores, aunque igualmente relevantes.  
    Este hallazgo permite identificar **zonas críticas y zonas de vigilancia**, facilitando la priorización de recursos en salud pública.
 
+<image src="DashboardTablas.jpg" alt="Descripción de la imagen">
+
 ---
 
 ## 6. Recomendaciones / Impacto
@@ -108,8 +110,6 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 
 5. **Redistribución de recursos**  
    Optimizar la asignación de suplementos nutricionales, personal médico y campañas educativas hacia las zonas con mayor prevalencia, evitando una distribución uniforme que diluya el impacto.  
-
-<image src="DashboardTablas.jpg" alt="Descripción de la imagen">
 
    ---
 
