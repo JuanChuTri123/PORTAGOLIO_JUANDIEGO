@@ -116,7 +116,8 @@ Los datos estaban dispersos y con errores de calidad, lo que dificultaba respond
 ## 7. Links
 - **Dashboard Interactivo**: [DASHBOARD](Proyecto%ANEMIA-CUSCO.pbix)  
 - **Diccionario de datos**: [Data Dictionary - Anemia Cusco 2010-2020](DiccionarioDatos_ANEMIACUSCO.xlsx)  
-- **Fuente de datos**: [Plataforma Nacional de Datos Abiertos](https://www.datosabiertos.gob.pe/dataset/casos-de-anemia-por-edades-entre-los-a%C3%B1os-2010-2020-en-la-region-de-cusco)
+- **Página de origen de datos extraídos**: [Plataforma Nacional de Datos Abiertos](https://www.datosabiertos.gob.pe/dataset/casos-de-anemia-por-edades-entre-los-a%C3%B1os-2010-2020-en-la-region-de-cusco)
+- **Datos en crudo**:[CSV DATOS ANEMIA-CUSCO](Dataset_AnemiaCusco.csv)
 ---
 
 ## 8. Cómo ejecutar el proyecto
